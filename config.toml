@@ -13,8 +13,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "JoshVu"
+    subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Show more"
