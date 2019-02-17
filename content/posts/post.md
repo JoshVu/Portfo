@@ -8,7 +8,7 @@ draft: false
 
 When making my portfolio using hugo and netlify, i have face a lot of problem that prevent me from upload my site to Github, most of them was because of my input was missing some word in my code that make the github can not fine the path to it. But there are 2 problem that really give me a headache, one is that some themes work just fine for my local host, but when i upload it to Netlify and publish it, the them bug out and only work on my landing page. The other one is also about the theme but different in term of problem, some theme on github have problem in their file like missing file or incompleted file and that make Netlify can not build my site.
 
-![](/static/img/prof.png)
+![test](/img/prof.png)
 
 ## How do i solve those problem 
 
