@@ -10,9 +10,9 @@ This week was pretty tough for me because all the problem that I have with my st
 ![1](/img/WIN_20190211_13_59_50_pro.jpg)
 
 This week, i also have a chance to explore and test my skill with hackthebox website. It took me quite long just to generate my invite code to hac the box cause this field is still new to me. So i look up on the internet and was able to understand how to look at Chrome development tools and find the info that i need in the script
-![2](/img/2019-02-18(1).png)
+![2](/img/2019-02-18(1).jpg)
 
 When look through the script i look for keyword that related to invite code and i found the link to the inviteapi.min.js file so i have a look through that file and found the command call makeinvitecode, so i try to tyoe it into Chrome development tools and it give me an encrypted line in ROT13 type.
-![3](/img/2019-02-18(7).png)
-![4](/img/2019-02-18(8).png)
+![3](/img/2019-02-18(7).jpg)
+![4](/img/2019-02-18(8).jpg)
 
