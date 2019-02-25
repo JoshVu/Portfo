@@ -36,12 +36,12 @@ Throughout the week, after doing some research and looking for instruction on th
 
 ![12](/img/52592463_2084751864948366_1232902832269557760_n.png)
 
-But it wasn't easy from the beginning. At first, I tried using Metasploit, an exploit tools from Linux, but instead of giving me access to my machine IP address, it directs me to the default IP 0.0.0.0 and it really hold me back a lot
+But it wasn't easy from the beginning. At first, I tried using Metasploit, an exploit tools from Linux, but instead of giving me access to my machine IP address, it directs me to the default IP 0.0.0.0, and it holds me back a lot.
 
 ![13](/img/52963065_503436253515743_4066407690765598720_n.png)
 
 
-And in other to solve this problem, I have to search for a way to use Metasploit or a different way to break into that machine. Lucky for me, in the instruction to achieve the challenge of Deloitte Cyber Attack Team on Wednesday did use Metasploit and I was able to utilize that to solve my problem and i was able to gained root access to that machine
+And in other to solve this problem, I have to search for a way to use Metasploit or a different way to break into that machine. Lucky for me, in the instruction to achieve the challenge of Deloitte Cyber Attack Team on Wednesday did use Metasploit and I was able to utilize that to solve my problem, and I was able to gain root access to that machine
 
 ![14](/img/52592463_2084751864948366_1232902832269557760_n.png)
 
