@@ -2,6 +2,7 @@
 title: "Week3"
 date: 2019-02-23T22:39:44+11:00
 draft: false
+cover: /img/abstract-business-code-270348.jpg
 ---
 
 ##About this week
