@@ -40,5 +40,8 @@ But it wasn't easy from the beginning. At first, I tried using Metasploit, an ex
 ![13](/img/52963065_503436253515743_4066407690765598720_n.png)
 
 
+And in other to solve this problem, I have to search for a way to use Metasploit or a different way to break into that machine. Lucky for me, in the instruction to achieve the challenge of Deloitte Cyber Attack Team on Wednesday did use Metasploit and I was able to utilize that to solve my problem and i was able to gained root access to that machine
+
+![14](/img/52592463_2084751864948366_1232902832269557760_n.png)
 
 
