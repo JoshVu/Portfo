@@ -1,7 +1,7 @@
 ---
-title: "Week4"
+title: "Week 4"
 date: 2019-03-05T16:08:24+11:00
-draft: true
+draft: false
 ---
 
 This is the final week and my final goal is to able to hack my way through a machine on hackthebox.eu and also present my work at Studio Expo 
