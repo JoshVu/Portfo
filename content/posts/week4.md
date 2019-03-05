@@ -13,6 +13,8 @@ For the machine on hackthebox.eu, It took me whole week searching online for som
 Although all the walk-through that I found is very clear, but all machine is different, i was managed to find available vulnerability of an active machine Curling on Hackthebox, but I still stuck at getting through admin panel of the machine.
 But with the help of tutors from my studio, I was able to go deeper and exploit that machine
 
+Because i can't post my write-up pulic so if anyone need a hint for Curling machine, you can contact me for more infomation
+
 # Expo
 
 At Expo, I have a chance to present my work to one of the students, and it was a great opportunity for me because I never have a chance to speak at an Expo before.
@@ -20,4 +22,4 @@ At Expo, I have a chance to present my work to one of the students, and it was a
 ![3](/img/a.jpg)
 ![4](/img/e.jpg)
 
-Studio was a great experience for me and i love it, I very appreciate all teacher and my friend that I've met in the studio, and they help me a lot throughout my journey this summer
+Studio was a great experience for me and i love it, I very appreciate all teacher and my friend that I've met in the studio, and they help me a lot throughout my journey this summer, and I would like to thanks them for support me 
