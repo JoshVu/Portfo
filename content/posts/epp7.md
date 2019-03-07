@@ -12,4 +12,6 @@ After 6 weeks of listening to guest speaker, writing resume and journal, designi
 
 
 •	Writing learning journals and tutorial classes activities: with this, I was able to achieved SLO 2: Document and communicate their capabilities to contribute to a workplace and engage in workplace learning. The example videos that we had to watch in out tutorial were interesting. It really gives us an idea of how things can go many different way when we started an internship. And the skill of documenting and writing journal is also help me on many situation outside of EPP1, as I was taking on UTS’ Summer Studio which I need to write journals as well.
+
+
 After taking EPP1, I now feel more confident to apply for an internship and job. Thanks you!
