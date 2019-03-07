@@ -9,3 +9,7 @@ Hi my name is Thanh Tung Vu
 ## Mechatronic Engineering Student
 I'm a Mechatronic Engineering Student at the University of Technology Sydney
 I'm specialised in robotic and also Cyber Security
+
+## Resume 
+This is the link to my resume if anyone need
+https://drive.google.com/file/d/19IZwx7b_OiDa6TiBYg0Nor-9STPdNMJw/view?usp=sharing
