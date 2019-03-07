@@ -45,7 +45,3 @@ paginate = 5
         identifier = "posts"
         name = "Posts"
         url = "/posts"
-      [[languages.en.menu.main]]
-        identifier = "post"
-        name = "EPP1"
-        url = "/post"
