@@ -7,6 +7,7 @@ cover: /img/e.jpg
 Hi my name is Thanh Tung Vu
 
 ## Mechatronic Engineering Student
+Hello
 I'm a Mechatronic Engineering Student at the University of Technology Sydney
 I'm specialised in robotic and also Cyber Security
 
