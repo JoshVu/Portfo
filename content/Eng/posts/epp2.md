@@ -2,6 +2,8 @@
 title: "EPP: Engineering Event – Summer Studio EXPO"
 date: 2019-03-07T16:27:08+11:00
 draft: false
+categories:
+- Engineering Practice Preperation
 ---
 
 This summer, I’m also taking UTS’ Summer Studio program, and there was an event at the end of the studio call Summer Studio EXPO.

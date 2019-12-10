@@ -2,6 +2,8 @@
 title: "EPP: Occupational Health and Safety Regulations and Safe Work Method Statements (SWMS)"
 date: 2019-03-07T16:27:27+11:00
 draft: false
+categories:
+- Engineering Practice Preperation
 ---
 
 It’s essential for every employee and worker who are working in any workplace in the world to understand and follow strictly to the occupational health and safety regulations. Moreover, different workplaces have different rules and obligations; however, here are some basic knowledge and experiences which you should know before you want to work for any company in this industry - engineering workforce:

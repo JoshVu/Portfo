@@ -2,6 +2,8 @@
 title: "EPP: Professional Activity 2"
 date: 2019-03-07T16:27:22+11:00
 draft: false
+categories:
+- Engineering Practice Preperation
 ---
 
 On 28th February 2019, my Peer Review Group (PRG) and I had our second “Professional Assessment Activity,” and we were giving our final feedback on our e-portfolio.

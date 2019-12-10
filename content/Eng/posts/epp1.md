@@ -2,6 +2,8 @@
 title: "EPP: Journal Entry 1"
 date: 2019-03-07T16:19:53+11:00
 draft: false
+categories:
+- Engineering Practice Preperation
 ---
 
 When I was in high school, my friend and I were working as a volunteer for a summer campaign. We were asked to create the playground for children every Tuesday and Thursday of summer so that parent can leave their kid with us and go to work, and the kid can have a place to make friend and play.

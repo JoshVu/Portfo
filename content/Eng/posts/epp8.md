@@ -1,7 +1,9 @@
 ---
 title: "Job market analysis"
 date: 2019-03-07T18:03:49+11:00
-draft: true
+draft: false
+categories:
+- Engineering Practice Preperation
 ---
 
 This job advertisement is about a Telstra Graduate Program 2020 – Information & Cyber Security - An Australia’s leading telecommunications and technology company

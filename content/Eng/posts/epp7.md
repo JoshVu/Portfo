@@ -2,6 +2,8 @@
 title: "EPP: Achieving EPP1’s Subject Learning Objectives (SLOs)"
 date: 2019-03-07T16:30:18+11:00
 draft: false
+categories:
+- Engineering Practice Preperation
 ---
 
 41035 Engineering Practice Preparation 1 (EPP1) has help me a lot on my way to find a job. And it also help me realize how important to write a good Resume and Cover letter as well as make my e-portfolio

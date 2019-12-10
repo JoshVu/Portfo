@@ -2,6 +2,8 @@
 title: "EPP: Working with supervisor"
 date: 2019-03-07T16:27:31+11:00
 draft: false
+categories:
+- Engineering Practice Preperation
 ---
 
 Every time you wish to start a new job, there are two emotions which always try to discourage you from getting used to with a new environment. Hesitation and anxiety and even a little depression; however, it's acceptable for you to have those bad feelings, don't worry, you will soon get out of it. As usual, the company will offer you a supervisor to help and check your work. Your supervisor might be a nice guy, always want to help you with different tasks of your job, help you to develop yourself and involved with the company, or, he or she will be someone who makes you feel more anxious and stressful. For the first case, if you have chances to work with a nice person, then you will be able to increase all of your abilities.
