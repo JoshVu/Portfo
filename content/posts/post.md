@@ -16,3 +16,5 @@ When making my portfolio using hugo and netlify, i have face a lot of problem th
 ## How do i solve those problem 
 
 At first really don't know what those problem really are, so i go through all my code and the output on Visual Studio Code and still can find any error or wrong input that made by me, so i reach out to my tutor in Summer Studio for solution, but still can not solve it either. So my solution for those problem right now is just to change to another theme (myself recommend to use simple theme like hello friend) 
+
+hi
