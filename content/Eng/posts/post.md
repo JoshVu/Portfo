@@ -1,10 +1,14 @@
 ---
-title: "Github and Netlify Problem"
-date: 2019-02-15T14:41:45+11:00
+title: "Eighth"
+date: 2018-10-07T11:40:11+02:00
+type: post
+categories:
+- Website Programming
+tags:
+- hugo
+- interesting
 draft: false
-cover: /img/1_pz8693ht7T07x0yRt8In8w.png
-categories: 
-- test
+
 ---
 
 ## Every problem and issue i have encounter so far
