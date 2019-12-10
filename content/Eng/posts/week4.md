@@ -2,6 +2,8 @@
 title: "Week 4"
 date: 2019-03-05T16:08:24+11:00
 draft: false
+categories:
+- Summer Studio
 ---
 
 This is the final week and my final goal is to able to hack my way through a machine on hackthebox.eu and also present my work at Studio Expo 
