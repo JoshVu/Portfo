@@ -48,4 +48,4 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "Intern"
         name = "Intern"
-        url = "/intern"
+        url = "/posts/intern"
