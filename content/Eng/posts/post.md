@@ -4,7 +4,7 @@ date: 2019-02-15T14:41:45+11:00
 draft: false
 cover: /img/1_pz8693ht7T07x0yRt8In8w.png
 categories: 
-- test
+- Summer Studio
 ---
 
 ## Every problem and issue i have encounter so far
