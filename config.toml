@@ -5,7 +5,7 @@ paginate = 5
 
 [params]
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  contentTypeName = "Eng"
   # "light" or "dark"
   defaultTheme = "dark"
   # if you set this to 0, only submenu trigger will be visible
@@ -44,8 +44,8 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "posts"
         name = "Posts"
-        url = "/posts"
+        url = "/posts/"
       [[languages.en.menu.main]]
-        identifier = "Intern"
+        identifier = "categories"
         name = "Intern"
-        url = "/intern"
+        url = "/categories/"
