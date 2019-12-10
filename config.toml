@@ -46,6 +46,6 @@ paginate = 5
         name = "Posts"
         url = "/posts/"
       [[languages.en.menu.main]]
-        identifier = "Intern"
+        identifier = "categories"
         name = "Intern"
-        url = "/intern/"
+        url = "/categories/"
