@@ -1,19 +1,19 @@
 ---
 title: "Principles of sustainability to create viable systems"
-date: 2019-02-15T14:41:45+11:00
+date: 2020-06-9T14:41:45+11:00
 draft: false
 
 categories: 
 - Workplace Reflection
 ---
 
-## Every problem and issue i have encounter so far
 
-During my time working at NhatTinh, I was able to gain more than just knowledge and experience, I also got to meet with lots of great seniors and they’ve helped me a lot.
-On my first day of work, I was assigned to work with assembly team on the current order of the compay. I was so nervous since I had almost no experience but still got to work on the real order right away. At first, I could only focus on the task I’ve been given that I couldn’t talk to anyone, but the team leader help me break the communication barrier that I’ve been built up by my self and I got to know more about the current order of the company that I was working on and to know more about my team as well as other team in the company 
 
-There are lunch time every day at 12pm and we ate together as one big family, talked about each other life, dating or even set up a football match after work. Since everyone just sit randomly so everyday I got to talk with different colleagues to eventually get to know everyone in my company and get along with my colleagues easier.
+When I first started working for NhatTinh, my position was to work in Assembly team and I got to work on the company straight away. The company produces robot base on the customer order which mostly come from other big company.
 
-Although working in my home country, there are still some cultural barrier between me and my colleagues since I have been studying and working in Australia for almost 2 years and I’ve got myself familiar with the working culture in Australia which very diffand that made comunication and between me and my colleagues quite difficult at first since most of the time my working langue is English and all my colleagues. However, despire the fact that I consider myself different from other, this experience and my colleagues has helped me break the barrier. There are some of my colleagues that have been study abroad and returned home to work and face the same problem as me. They helped me break the barrier and familiar myself  with the company working culture.
+Starting my intern in Assembly team, my job was to assemble small part and also check if there are any error, from the part different from the design, even to the small detail that make assemble process difficult and fix it or returned it. At first, I was doing this job by accept almost everything and I almost report nothing back even if I couldn’t get 2 part together and fix everything I can by myself.
 
-Furthermore, as now I have realised how important team-bonding is, I have made it one of the priorities when working in or managing groups.
+Because the device is fairly complex though, doing so meant that I ended up losing several parts, doing extra research and wasting lots of time. My job supervisor then recommended that I would look at it from a more pragmatic point of view: try to gradually and thoughtfully fix issues, without altering the current state of the damaged units, and seek to find the root cause of problems that may occur on multiple units, not just fixing the particular unit.
+
+This was a new way of looking at engineering problems to me, as previously I had only worked on university projects, and in that case, getting things to work was the priority.
+As I continued to work with the company, I applied that way of thinking and it helped me and my team create viable solutions for both hardware and software engineering. I will continue to use it for future, personal as well as technical ventures..
